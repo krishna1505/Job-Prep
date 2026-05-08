@@ -9,7 +9,7 @@ app.use(cookieParser())
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://job-prep-f.onrender.com"
+        "https://job-prep-front.onrender.com"
     ],
     credentials: true
 }))
