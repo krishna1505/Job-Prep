@@ -2,7 +2,7 @@ import axios from "axios"
 
 
 const api = axios.create({
-   baseURL: "https://job-prep-backend-fl4i.onrender.com",
+   baseURL: "https://job-prep-b.onrender.com",
     withCredentials: true
 })
 
