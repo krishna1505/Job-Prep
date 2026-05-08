@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🚀+Job+Prep+AI;Full+Stack+Gen+AI+App;Interview+Ready+in+Minutes!" alt="Typing SVG" />
+
 
 <h1>⚡ Job Prep — AI-Powered Interview Preparation Platform</h1>
 
